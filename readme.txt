@@ -10,15 +10,6 @@ detect_manial.py calculates the wrist distance to infer if a pushup is being don
 - Pip package manager
 
 ## Installation
-### Setting up the Virtual Environment 
-
-> pip install virtualenv
-
-Go to the project directory
-
-> env/scripts/activate
-
-### Installing Dependencies
 
 Install the required Python packages using the following command:
 
